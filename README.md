@@ -66,3 +66,25 @@ Guardrail Tests:
 Test the main menu input by entering a letter or an invalid number (e.g., 9) to check the error handling.
 Test Option 4 (Update) sale reduction to ensure the system prevents stock from dropping below zero (e.g., trying to sell 50 items when only 40 are available).
 Test Option 7 (Clear Inventory) first by typing an incorrect confirmation (e.g., 'no') and then by typing the exact confirmation ('YES') to verify the safety mechanism.Exit Test:Test Option 0 to confirm the application shuts down cleanly.
+
+Screenshots:
+
+<img width="362" height="224" alt="Screenshot 2025-11-25 at 12 32 15 AM" src="https://github.com/user-attachments/assets/cf48cad8-d177-4006-8bfb-94319a4d5e92" />
+
+<img width="362" height="224" alt="Screenshot 2025-11-25 at 12 41 52 AM" src="https://github.com/user-attachments/assets/06d0c8a7-5485-46b6-a82e-f240f1c2e276" />
+
+<img width="362" height="224" alt="Screenshot 2025-11-25 at 12 43 49 AM" src="https://github.com/user-attachments/assets/449085b2-487d-4444-83a7-be8ec676f45e" />
+
+
+<img width="369" height="283" alt="Screenshot 2025-11-25 at 12 53 04 AM" src="https://github.com/user-attachments/assets/8a016b61-9d97-4395-b840-2ebdc93cb6da" />
+
+
+<img width="451" height="254" alt="Screenshot 2025-11-25 at 12 46 00 AM"
+src="https://github.com/user-attachments/assets/6c62cd30-2e40-4197-b39f-e4a48ed7a9eb" />
+
+<img width="498" height="275" alt="Screenshot 2025-11-25 at 12 49 35 AM" src="https://github.com/user-attachments/assets/209f3e65-29d7-4428-8990-9982e1831bb9" />
+
+<img width="369" height="235" alt="Screenshot 2025-11-25 at 12 50 05 AM" src="https://github.com/user-attachments/assets/490d2be5-d84d-41c9-8b14-0c2e8efdcd90" />
+
+
+<img width="369" height="215" alt="Screenshot 2025-11-25 at 12 50 28 AM" src="https://github.com/user-attachments/assets/746b2ea0-4653-4937-8f6c-433dd9394147" />
